@@ -79,6 +79,7 @@ Mục **Get in touch** là danh sách `<ul class="contact">`. Mỗi dòng phải
 
 - **Song ngữ:** mọi chữ hiển thị đều bọc `<span lang="en">…</span><span lang="vi">…</span>`. Tên riêng, email, tên nền tảng (Google Play, App Store, TikTok…) để một dạng.
 - **Giọng văn:** dùng "chúng tôi / we", không dùng "mình / I / one developer".
+- **Link ngoài mở tab mới:** mọi link tới store/kênh có `target="_blank" rel="noopener"` (các dòng đang ẩn đã có sẵn, chỉ cần thêm `href`). Link `mailto:` thì không.
 - **Không đoán link.** Store, kênh mạng xã hội, trang playtest: hỏi chủ dự án hoặc để ẩn.
 - **Không hứa ngày ra mắt** cho game hoặc bản iOS. Chỉ ghi "Coming soon".
 - **Phần đầu trang gọn:** người xem phải thấy game mà không cần cuộn. Đừng thêm khối lớn phía trên "Our games".
