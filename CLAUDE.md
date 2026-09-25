@@ -36,7 +36,7 @@ Nguồn thiết kế/brand: thư mục `../Channel` (`tap_goblin_brand_guide.md`
 
 - Link Play: `https://play.google.com/store/apps/details?id=<package>`
 - Trang tất cả game trên Play (dùng ở mục Get in touch): `https://play.google.com/store/search?q=pub%3ADragons%20Funny&c=apps`
-- YouTube: `https://www.youtube.com/channel/UCQCr_eS3s8Op_49FAAporsg` (handle `@playtapgoblin`)
+- YouTube: `https://www.youtube.com/@playtapgoblin` (handle; mã kênh cố định: `UCQCr_eS3s8Op_49FAAporsg`)
 - Email: dragonsfunny85@gmail.com
 - Tên nhà phát triển trên Google Play: **Dragons Funny**. Trên trang viết **DragonsFunny**.
 - Thứ tự thẻ game hiện tại (chủ dự án chọn): Oddly Pairs → Connect Lights → Firefly Trails → Chroma Clear.
