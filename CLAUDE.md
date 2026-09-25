@@ -1,4 +1,10 @@
-# Dong2VS.github.io — hướng dẫn cập nhật trang
+# tapgoblin.github.io — hướng dẫn cập nhật trang
+
+## Nơi đặt trang
+
+- **Trang chính thức:** https://tapgoblin.github.io — repo `tapgoblin/tapgoblin.github.io` (public, bắt buộc vì gói Free của GitHub Pages). Remote `origin` của thư mục này trỏ vào repo đó; sửa xong thì push lên `origin main`.
+- **Repo cũ `Dong2VS/Dong2VS.github.io`** (remote `old-dong2vs`) không còn cập nhật. Giữ lại vì các trang privacy `dong2vs.github.io/<game>-privacy-policy/` và `app-ads.txt` cũ vẫn dùng địa chỉ đó. Đừng xoá.
+- `app-ads.txt` cũng có trong repo này. Nếu trang web nhà phát triển trong Play Console đổi sang `tapgoblin.github.io` thì AdMob đọc file này.
 
 Trang giới thiệu game của **DragonsFunny** (thương hiệu kênh: **Tap Goblin**). Người xem đến từ YouTube/TikTok bấm link để xem game và tải về. Trang là **một file tĩnh** [index.html](index.html), song ngữ EN/VI, không dùng framework.
 
